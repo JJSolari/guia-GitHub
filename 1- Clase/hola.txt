@@ -5,6 +5,6 @@ hola Mundo 2!
 hola Mundo 3!
 
 hola Mundo 4!
-
+Esto es un texto en la linea 8 (remoto)
 hola Mundo 6!
-Esto es un texto en la linea 10 (local)
+Texto!
